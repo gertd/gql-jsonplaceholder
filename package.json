@@ -1,7 +1,7 @@
 {
-  "name": "gqlsvr",
-  "version": "1.0.0",
-  "description": "",
+  "name": "gql-jsonplaceholder",
+  "version": "0.0.1",
+  "description": "GraphQL service implmenting facade over https://jsonplaceholder.typicode.com REST data",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
