@@ -1,2 +1,3 @@
 # gql-jsonplaceholder
-Simple GraphQL project implementing a facade over https://jsonplaceholder.typicode.com
+
+Simple GraphQL service project implementing a facade over https://jsonplaceholder.typicode.com REST data
